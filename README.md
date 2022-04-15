@@ -1,2 +1,2 @@
 # QMLHEP-Tasks
-QML-HEP Tasks
+QML-HEP GSoC'22 Tasks
